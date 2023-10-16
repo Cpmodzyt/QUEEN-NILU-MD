@@ -17,7 +17,7 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = '' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = '8fd78890-b108-49a2-bc92-39e20409c889'
 
 
 
